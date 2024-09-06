@@ -1,1 +1,1 @@
-# Bangla-Sign-Language-
+# Bangla-Sign-Language-Detection 
