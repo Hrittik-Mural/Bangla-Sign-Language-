@@ -19,8 +19,12 @@ Recurrent Neural Networks in particular may learn long-term dependencies. Unlike
 
 
 
+![Uploading image.png…]()
+
+
 **Work Procedure**
 
 
 
 ![Uploading image.png…]()
+
